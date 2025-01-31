@@ -1,6 +1,6 @@
 # Data for Starccato
 
-- *training*: Contains the training dataset of stellar core collapse GW signals (obtained from XXX et al, 20XX)
+- *training*: Contains the training dataset of stellar core collapse GW signals (obtained from Richers et al, 2017, https://zenodo.org/record/201145)
 - *weights*: Contains the trained neural net weights
 
 
